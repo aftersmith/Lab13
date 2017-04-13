@@ -1,1 +1,1 @@
-Lab13GH
+GitHUb Intro Lab
